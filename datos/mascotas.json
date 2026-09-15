@@ -1,0 +1,52 @@
+[
+    {
+        "id" : 1,
+        "nombre": "Pedro",
+        "especie" : "Perro",
+        "edad": 3,
+        "descripcion": "Perro raza salchicha teckel",
+        "estado": "En adopcion",
+        "imagen": "/img/pedro.jpg"
+    },
+
+    {
+        "id" : 2,
+        "nombre": "Pepito",
+        "especie" : "Gato",
+        "edad": 2,
+        "descripcion": "Gato Britanico color gris ",
+        "estado": "En adopcion",
+        "imagen": "/img/pepito.png"
+    },
+
+    {
+        "id" : 3,
+        "nombre": "Firulais",
+        "especie" : "Perro",
+        "edad": 4,
+        "descripcion": "Perro de raza chow chow ",
+        "estado": "Adoptado",
+        "imagen": "/img/firulais.jpg"
+    },
+
+    {
+        "id" : 4,
+        "nombre": "Manchita",
+        "especie" : "Gato",
+        "edad": 1,
+        "descripcion": " ",
+        "estado": "Reservado",
+        "imagen": "/img/manchita.avif"
+    },
+
+    {
+        "id" : 5,
+        "nombre": "Nena",
+        "especie" : "Gato",
+        "edad": 5,
+        "descripcion": " Gatita de raza siames",
+        "estado": "Adoptada",
+        "imagen": "/img/nena.webp"
+    }
+
+]
